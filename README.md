@@ -4,6 +4,6 @@
 Para a criação desse projeto foram utilizadas as seguintes tecnologias, HTML CSS e JAVASCRIPT.</p>
 
 <h1 align="center">
-    <a href="meucronometrodigital.netlify.app">🔗 Link do projeto.</a>
+    <a href="https://meucronometrodigital.netlify.app/">🔗 Link do projeto.</a>
 </h1>
 
